@@ -13,6 +13,7 @@ Es un sitio estático: no necesita servidor ni base de datos. Los datos de cada 
 
 ## Instalar en el celular
 
+
 Abre el enlace una vez con internet. En Android (Chrome): menú de tres puntos, "Instalar app". En iPhone (Safari): botón de compartir, "Agregar a inicio". Después funciona sin señal.
 
 ## Importante
