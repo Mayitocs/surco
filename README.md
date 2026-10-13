@@ -4,13 +4,6 @@ App web para planear, controlar y cerrar un ciclo de papa: presupuesto, calendar
 
 Es un sitio estático: no necesita servidor ni base de datos. Los datos de cada persona se guardan en su propio navegador.
 
-## Publicar en GitHub Pages
-
-1. Crea un repositorio nuevo en GitHub (por ejemplo `surco`).
-2. Sube todos los archivos de esta carpeta a la raíz del repositorio: `index.html`, `sw.js`, `manifest.webmanifest`, `icon.svg`, `icon-192.png`, `icon-512.png`.
-3. En el repositorio: Settings, Pages, Source: "Deploy from a branch", rama `main`, carpeta `/ (root)`. Guarda.
-4. En uno o dos minutos el sitio queda en `https://TU-USUARIO.github.io/surco/`.
-
 ## Instalar en el celular
 
 
